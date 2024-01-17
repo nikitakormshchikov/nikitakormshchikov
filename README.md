@@ -1,5 +1,12 @@
-### Hi there 👋
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
+### <center></center>Hi there, my name is Nikita Kormshchikov
+
+```{=html}
 <!--
 **nikitakormshchikov/nikitakormshchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
